@@ -1,10 +1,13 @@
 <h1 align="center">
-  <span style="color:#FF4C4C;">PHP IS DEAD!</span><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
+  <span style="color:#FF4C4C;">PHP IS DEAD!</span>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 <h2 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
