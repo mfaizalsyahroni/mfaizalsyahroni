@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
-<h4 align="center">⚡ Fullstack PHP Developer | Web Architect</h4>
+<p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
 
 
 <p align="center">
@@ -30,6 +30,7 @@ Fullstack PHP Developer experienced in Laravel, CodeIgniter, Symfony, and REST A
 ### 🚀 Featured Project
 
 Developed a dynamic JSON-based form system with efficient data processing and API integration.
+
 ---
 
 ### 🛠️ Frameworks & Technologies
