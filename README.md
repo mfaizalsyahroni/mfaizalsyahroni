@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#FF4C4C;">PHP IS DEAD!</span>
+  <span style="color:red;">PHP IS DEAD!</span>
 </h1>
 
 <p align="center">
