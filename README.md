@@ -1,40 +1,43 @@
-<h1 align="center">Why always me ?</h1>
-<h2 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h2>
+<h1 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h1>
 <h3 align="center">⚡ Fullstack PHP Developer | Web Architect</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&width=500&lines=Fullstack+PHP+Developer;Laravel+%7C+CodeIgniter+%7C+Symfony;Vue.js+%7C+Lumen+%7C+Yii+%7C+Magento;Always+learning+new+things!" alt="Typing SVG" />
-</p>
 
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="mailto:muhammadfaizalsyahroni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadfaizalsyahroni">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
-
-- ### 🙋 About Me
+### 🙋 About Me
 
 - 🔭 Currently working as **Fullstack PHP Developer**
 - 🌐 Building scalable web apps with **Laravel, PHP & MySQL**
-- 💡 Interested in **backend architecture, REST API & database optimization**
-- 🛒 Experienced with **Magento** for e-commerce solutions
+- 💡 Deep knowledge of **Object-Oriented PHP** and Laravel framework
+- 🗄️ Hands-on experience with **SQL schema design & REST API**
+- 🧪 Familiar with **Unit Testing** — PHPUnit & PHPSpec (basic)
+- 🛒 Experienced with **Magento** for e-commerce & ERP solutions
+- 🎨 Experience with **Twig templating** (Symfony)
+- 🌍 Able to communicate in **English** (basic)
 - 🚀 Always learning and exploring new frameworks & tools
 
-- 🧪 Familiar with Unit Testing (basic)
-- 🎨 Experience or learning Twig templating (Symfony)
-- 🌍 Able to communicate in English (basic)
-
-- ---
-
-### 🚀 Featured Project
-
-- 📌 Built a dynamic form system from JSON using **Laravel & REST API**
-- 🗄️ Stored and processed nested JSON data into database
-- 🔗 Developed API for rendering and submitting form dynamically
-- ⚡ Handled multiple input types (text, radio, checkbox, date)
-
-`#Laravel` `#RESTAPI` `#JSON` `#Backend`
+`#Fullstack` `#PHPDeveloper` `#WebArchitect` `#LaravelDev`
 
 ---
 
-`#Fullstack` `#PHPDeveloper` `#WebArchitect`
+### 🚀 Featured Project
+
+- 📌 Built a **dynamic form system from JSON** using Laravel & REST API
+- 🗄️ Stored and processed **nested JSON data** into relational database
+- 🔗 Developed API for **rendering & submitting forms dynamically**
+- 🏢 Experience in **property management & ERP software** development
+
+`#Laravel` `#RESTAPI` `#JSON` `#Backend` `#ERP`
 
 ---
 
@@ -52,6 +55,7 @@
 **Frontend:**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,10 +67,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Testing:**
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
+![PHPSpec](https://img.shields.io/badge/PHPSpec-4A4A55?style=for-the-badge&logo=php&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 **Tools & DevOps:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
