@@ -1,16 +1,16 @@
-<h2 align="center">
+<h5 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=PHP+IS+DEAD!" />
-</h2>
+</h5>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </p>
 
-<h3 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
+<p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
 
 
