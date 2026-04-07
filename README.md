@@ -1,65 +1,93 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF0000&center=true&vCenter=true&width=280&lines=PHP+IS+DEAD!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1200&color=00FFFF&center=true&vCenter=true&width=240&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
 </div>
 
-<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-<p align="center"><b>Hi there! 👋 I'm Muhammad Faizal Syahroni</b></p>
-<p align="center">Fullstack PHP Developer • Web Architect</p>
+<p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
+<p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadfaizalsyahroni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
 
 ### 🚀 Featured Project
-<p align="center">Dynamic JSON-based form system with efficient API integration</p>
+
+Developed a dynamic JSON-based form system with efficient data processing and API integration.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Frameworks & Technologies
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-**Backend**  
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lumen-E74430?style=flat&logo=lumen&logoColor=white"/>
-<img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
+**PHP Frameworks**  
+<br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yii2-00BFFF?style=for-the-badge&logo=yii&logoColor=white"/>
+<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
 
-<br><br>
+</td>
+<td width="50%">
 
 **Frontend**  
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<br><br>
+</td>
+</tr>
 
-**Database**  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<tr>
+<td>
 
-<br><br>
+**Languages & Database**  
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Tools**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</td>
+<td>
 
-<br><br>
+**Tools & DevOps**  
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 **Testing**  
-<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHPSpec-4A4A55?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-</div>
+</td>
+</tr>
+
+</table>
