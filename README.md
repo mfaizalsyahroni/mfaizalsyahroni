@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=PHP+IS+DEAD!" />
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=WHY+ALWAYS+ME?+😳;Laravel+STILL+ALIVE+😏" />
@@ -10,10 +10,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-<h2 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
-<h3 align="center">⚡ Fullstack PHP Developer | Web Architect</h3>
-
-
+<h3 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
+<h4 align="center">⚡ Fullstack PHP Developer | Web Architect</h4>
 
 
 <p align="center">
@@ -25,29 +23,13 @@
 
 ### 🙋 About Me
 
-- 🔭 Currently working as **Fullstack PHP Developer**
-- 🌐 Building scalable web apps with **Laravel, PHP & MySQL**
-- 💡 Deep knowledge of **Object-Oriented PHP** and Laravel framework
-- 🗄️ Hands-on experience with **SQL schema design & REST API**
-- 🧪 Familiar with **Unit Testing** — PHPUnit & PHPSpec (basic)
-- 🛒 Experienced with **Magento** for e-commerce & ERP solutions
-- 🎨 Experience with **Twig templating** (Symfony)
-- 🌍 Able to communicate in **English** (basic)
-- 🚀 Always learning and exploring new frameworks & tools
-
-`#Fullstack` `#PHPDeveloper` `#WebArchitect` `#LaravelDev`
+Fullstack PHP Developer experienced in Laravel, CodeIgniter, Symfony, and REST API, focused on building scalable web applications.
 
 ---
 
 ### 🚀 Featured Project
 
-- 📌 Built a **dynamic form system from JSON** using Laravel & REST API
-- 🗄️ Stored and processed **nested JSON data** into relational database
-- 🔗 Developed API for **rendering & submitting forms dynamically**
-- 🏢 Experience in **property management & ERP software** development
-
-`#Laravel` `#RESTAPI` `#JSON` `#Backend` `#ERP`
-
+Developed a dynamic JSON-based form system with efficient data processing and API integration.
 ---
 
 ### 🛠️ Frameworks & Technologies
