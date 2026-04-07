@@ -5,9 +5,7 @@
 ### 📫 How to Reach Me
 
 <p align="left">
-  <a href="mailto:muhammadfaizalsyahroni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/muhammadfaizalsyahroni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://linkedin.com/in/muhammadfaizalsyahroni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
