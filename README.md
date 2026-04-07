@@ -22,12 +22,6 @@
 </p>
 
 
-### 🙋 About Me
-
-Fullstack PHP Developer experienced in Laravel, CodeIgniter, Symfony, and REST API, focused on building scalable web applications.
-
----
-
 ### 🚀 Featured Project
 
 Developed a dynamic JSON-based form system with efficient data processing and API integration.
