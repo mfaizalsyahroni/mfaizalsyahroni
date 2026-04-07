@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:red;">PHP IS DEAD!</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=PHP+IS+DEAD!" />
 </h1>
 
 <h2 align="center">
