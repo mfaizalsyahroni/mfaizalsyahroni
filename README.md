@@ -1,16 +1,138 @@
-<h1 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h1>
-<h3 align="center">⚡ Fullstack PHP Developer | Web Architect</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PHP Hero Animation</title>
+
+<style>
+body {
+  margin: 0;
+  background: #0f172a;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  overflow: hidden;
+}
+
+/* CENTER CONTAINER */
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* GLITCH TEXT */
+.glitch {
+  font-size: 48px;
+  font-weight: bold;
+  position: relative;
+  color: #fff;
+  animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+  0% { text-shadow: 2px 2px red; }
+  25% { text-shadow: -2px -2px blue; }
+  50% { text-shadow: 2px -2px lime; }
+  75% { text-shadow: -2px 2px purple; }
+  100% { text-shadow: 2px 2px red; }
+}
+
+/* SUBTEXT */
+.subtext {
+  font-size: 22px;
+  margin-top: 10px;
+  color: #94a3b8;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* LAPTOP MOCKUP */
+.laptop {
+  margin-top: 40px;
+  width: 300px;
+  height: 180px;
+  background: #111;
+  border-radius: 10px;
+  box-shadow: 0 0 40px rgba(0,255,255,0.2);
+  position: relative;
+}
+
+/* SCREEN */
+.screen {
+  padding: 15px;
+  font-family: monospace;
+  font-size: 14px;
+  color: #00ff9f;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid #00ff9f;
+  animation: typing 4s steps(30) infinite alternate;
+}
+
+/* TYPING EFFECT */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* BASE (keyboard) */
+.base {
+  width: 320px;
+  height: 20px;
+  background: #222;
+  border-radius: 5px;
+  margin-top: -5px;
+}
+
+/* GLOW EFFECT */
+.glow {
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="hero">
+
+  <h1 class="glitch glow">PHP IS DEAD!</h1>
+  <h2 class="subtext">WHY ALWAYS ME? 😳</h2>
+
+  <div class="laptop">
+    <div class="screen">
+      > Running Laravel project... <br>
+      > Composer install... <br>
+      > Still alive 😏
+    </div>
+  </div>
+
+  <div class="base"></div>
+
+</div>
+
+</body>
+</html>
+
+<h3 align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</h3>
+<h4 align="center">⚡ Fullstack PHP Developer | Web Architect</h4>
 
 
-### 📫 How to Reach Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/muhammadfaizalsyahroni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<p align="center">
   <a href="https://linkedin.com/in/muhammadfaizalsyahroni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
+
 
 ### 🙋 About Me
 
