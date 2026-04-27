@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" alt="PHP IS DEAD" />
-
   <br>
-
-  
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME%3F+%F0%9F%98%B3" alt="WHY ALWAYS ME" />
 </div>
 
@@ -20,20 +16,11 @@
         <table border="0" cellpadding="0" cellspacing="0" width="10">
           <tr>
             <td bgcolor="#555" height="40">&nbsp;</td>
+             <td bgcolor="#55" height="10">&nbsp;</td>
           </tr>
         </table>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="160">
-          <tr>
-            <td bgcolor="#55" height="10">&nbsp;</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
   </div>
 
 
