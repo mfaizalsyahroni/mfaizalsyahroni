@@ -5,25 +5,26 @@
   <br><br>
 
   <!-- Layar monitor -->
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; display: inline-table;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; display: inline-table;">
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="border: 4px solid #333; border-radius: 10px; padding: 10px;">
         <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" style="display: block;" />
       </td>
     </tr>
   <!-- Leher -->
-    <tr>
-      <td align="center" style="padding: 0; margin: 0;">
-        <div style="width: 30px; height: 40px; background-color: #222;"></div>
-      </td>
-    </tr>
+<!-- Leher -->
+<tr>
+  <td align="center" style="padding: 0; margin: 0;">
+    <div style="width: 12px; height: 60px; background-color: #222; border-radius: 5px;"></div>
+  </td>
+</tr>
     <!-- Kaki -->
     <tr>
       <td align="center" style="padding: 0; margin: 0;">
         <div style="width: 140px; height: 8px; background-color: #222; border-radius: 10px 10px 0 0;"></div>
       </td>
     </tr>
-          </table>
+  </table>
 </div>
           
 
