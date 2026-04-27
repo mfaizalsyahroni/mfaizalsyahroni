@@ -20,7 +20,7 @@
             <td bgcolor="#222" height="60">&nbsp;</td>
           </tr>
           <tr>
-            <td bgcolor="#222" width="20">&nbsp;</td>
+            <td bgcolor="#222" width="10">&nbsp;</td>
           </tr>
         </table>
       </td>
