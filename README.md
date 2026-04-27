@@ -19,19 +19,12 @@
           <tr>
             <td bgcolor="#222" height="30">&nbsp;</td>
           </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="120">
-          <tr>
+           <tr>
             <td bgcolor="#222" height="8">&nbsp;</td>
           </tr>
         </table>
       </td>
     </tr>
-  </table>
 </div>
 </div>
 
