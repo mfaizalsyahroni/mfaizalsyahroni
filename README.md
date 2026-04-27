@@ -7,16 +7,21 @@
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333; border-bottom: none;">
-        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#222" style="border: 3px solid #333; border-top: none;" height="60" width="60"></td>
-    </tr>
-  </table>
+
+  <!-- Monitor (layar + frame) -->
+  <div style="display:inline-block; border:2px solid #2c2c2c; background:#111; padding:8px;">
+    <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" />
+    
+    <!-- Chin ala Mac -->
+    <div style="height:14px; background:#2c2c2c;"></div>
+  </div>
+
+  <!-- Neck (tiang) -->
+  <div style="width:6px; height:30px; background:#2c2c2c; margin:0 auto;"></div>
+
+  <!-- Base (kaki bawah) -->
+  <div style="width:120px; height:6px; background:#2c2c2c; margin:4px auto 0;"></div>
+
 </div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
