@@ -26,8 +26,10 @@
       <td align="center">
         <table border="0" cellpadding="0" cellspacing="0" width="300">
           <tr>
-            <img src ="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/keyboard.webp?raw=true" width="250" height="50" />&nbsp;
-            <img src ="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/mouse.jpg?raw=true" width="50" height="50" />
+              <div style="display:flex; flex-direction:row; align-items:center; justify-content:center; gap:8px; margin-top:4px;">
+                  <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/keyboard.webp?raw=true"                             width="250" height="50" />
+                  <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/mouse.jpg?raw=true" width="50"                       height="50" />
+              </div>
           </tr>
         </table>
       </td>
