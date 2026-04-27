@@ -2,14 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
-  
-  <div style="position: relative; width: 350px; height: 350px; margin-top: 20px;">
-    <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="350" style="position: absolute; top: 0; left: 0; z-index: 1;" />
-    
-    <div style="position: absolute; top: 120px; left: 50%; transform: translateX(-50%); z-index: 2; width: 150px; text-align: center;">
-      <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="120" style="border-radius: 5px;" />
-    </div>
-  </div>
+  <br><br>
+
+  <table style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td align="center" style="background-color: #2d2d2d; border: 10px solid #1a1a1a; border-radius: 15px; padding: 20px;">
+        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" style="border-radius: 5px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 0;">
+        <div style="background-color: #1a1a1a; width: 60px; height: 20px; margin: 0 auto;"></div>
+        <div style="background-color: #1a1a1a; width: 120px; height: 10px; margin: 0 auto; border-radius: 5px 5px 0 0;"></div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
