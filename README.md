@@ -22,14 +22,11 @@
         </table>
       </td>
     </tr>
-    <tr>
       <td align="center">
           <tr>
             <td bgcolor="#222" width="30">&nbsp;</td>
           </tr>
       </td>
-    </tr>
-  </table>
 </div>
 </div>
 
