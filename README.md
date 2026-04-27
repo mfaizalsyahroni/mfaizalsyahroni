@@ -4,20 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
   <br><br>
 
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
-      <td align="center" style="background-color: #1a1a1a; border: 4px solid #333; border-radius: 10px; padding: 10px;">
-        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" style="border-radius: 2px;" />
+      <td align="center" bgcolor="#1a1a1a" style="border: 4px solid #333; border-radius: 10px; padding: 10px;">
+        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" style="display: block;" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <div style="background-color: #222; width: 30px; height: 40px; border-left: 2px solid #333; border-right: 2px solid #333;"></div>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="30" height="40" bgcolor="#222" style="border-left: 2px solid #333; border-right: 2px solid #333;"></td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <div style="background-color: #222; width: 140px; height: 8px; border-radius: 10px 10px 2px 2px; border-bottom: 3px solid #111;"></div>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="140" height="8" bgcolor="#222" style="border-radius: 10px 10px 0 0;"></td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
