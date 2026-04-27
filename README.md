@@ -13,15 +13,15 @@
         <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
       </td>
     </tr>
+          <tr>
+            <td bgcolor="#222" height="60" width="100">&nbsp;</td>
+          </tr>
     <tr>
       <td height="10" width="20"></td>
     </tr>
     <tr>
       <td align="center">
         <table border="0" cellpadding="0" cellspacing="0" width="100">
-          <tr>
-            <td bgcolor="#222" height="60" width="100">&nbsp;</td>
-          </tr>
           <tr>
             <td bgcolor="#222" height="10" width="300">&nbsp;</td> <!-- ← lebih lebar -->
           </tr>
