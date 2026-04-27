@@ -14,7 +14,7 @@
       </td>
     </tr>
           <tr>
-            <td bgcolor="#222" height="60" width="100">&nbsp;</td>
+            <td bgcolor="#222" height="60">&nbsp;</td>
           </tr>
     <tr>
       <td height="10" width="20"></td>
