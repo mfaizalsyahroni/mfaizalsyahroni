@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="oby.webp" width="300">
+  <img src="oby.webp" width="250">
 </p>
 
 
