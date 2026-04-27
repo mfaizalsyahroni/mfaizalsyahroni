@@ -10,12 +10,17 @@
       <td align="center" bgcolor="#1a1a1a" style="border: 4px solid #333; border-radius: 10px; padding: 10px;">
         <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" style="display: block;" />
       </td>
+      <td align="center" style="padding: 0; margin: 0;">
+        <div style="width: 30px; height: 40px; background-color: #222;"></div>
+      </td>
     </tr>
-  </table>
+      </table>
+      
+</div>
+
+
 
   <!-- Leher -->
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0; padding: 0;">
-    <tr>
       <td align="center" style="padding: 0; margin: 0;">
         <div style="width: 30px; height: 40px; background-color: #222;"></div>
       </td>
@@ -26,9 +31,7 @@
         <div style="width: 140px; height: 8px; background-color: #222; border-radius: 10px 10px 0 0;"></div>
       </td>
     </tr>
-  </table>
 
-</div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
