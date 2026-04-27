@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" alt="PHP IS DEAD" />
-</div>
+
   <br>
 
   
