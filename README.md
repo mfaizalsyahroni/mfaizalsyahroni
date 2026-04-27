@@ -22,15 +22,6 @@
         </td>
         </table>
     </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="30>
-          <tr>
-            <td bgcolor="#222" height="10" width="300">&nbsp;</td> <!-- ← lebih lebar -->
-          </tr>
-        </table>
-      </td>
-    </tr>
       </table>
 </div>
 </div>
