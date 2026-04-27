@@ -27,6 +27,7 @@
         <table border="0" cellpadding="0" cellspacing="0" width="300">
           <tr>
             <td bgcolor="#222" width="250" height="40">&nbsp;</td>
+            <img src ="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/keyboard.webp?raw=true" width="240" height="35" />
           </tr>
         </table>
       </td>
