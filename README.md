@@ -18,8 +18,9 @@
         <table border="0" cellpadding="0" cellspacing="0" width="30">
           <tr>
             <td bgcolor="#222" height="60">&nbsp;</td>
-            <br>
-            <td bgcolor="#222" height="60">&nbsp;</td>
+          </tr>
+          <tr>
+            <td bgcolor="#222" width="20">&nbsp;</td>
           </tr>
         </table>
       </td>
