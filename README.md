@@ -31,7 +31,7 @@
             </td>
             <td>
                 <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/mouse.jpg?raw=true" width="50" height="50" />
-      <     /td>
+            </td>
           </tr>
         </table>
       </td>
