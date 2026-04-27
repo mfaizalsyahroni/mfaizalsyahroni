@@ -15,18 +15,18 @@
     </tr>
     <tr>
       <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="30">
+        <table border="0" cellpadding="0" cellspacing="0" width="10">
           <tr>
-            <td bgcolor="#222" height="30">&nbsp;</td>
+            <td bgcolor="#555" height="40">&nbsp;</td>
           </tr>
         </table>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="120">
+        <table border="0" cellpadding="0" cellspacing="0" width="160">
           <tr>
-            <td bgcolor="#222" height="8">&nbsp;</td>
+            <td bgcolor="#55" height="10">&nbsp;</td>
           </tr>
         </table>
       </td>
