@@ -22,15 +22,7 @@
         </table>
       </td>
     </tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="30">
-          <tr>
-            <td bgcolor="#222" width="16">&nbsp;</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+      </table>
 </div>
 </div>
 
