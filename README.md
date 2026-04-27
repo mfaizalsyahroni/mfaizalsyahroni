@@ -19,9 +19,9 @@
           <tr>
             <td bgcolor="#222" height="60">&nbsp;</td>
           </tr>
-          <tr>
+          <div>
             <td bgcolor="#222" width="100">&nbsp;</td>
-          </tr>
+          </div>
         </table>
       </td>
     </tr>
