@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="320">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333; border-bottom: none;">
         <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
