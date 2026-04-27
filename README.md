@@ -13,8 +13,8 @@
         <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
       </td>
     </tr>
-<tr>
-      <td height="10"></td>
+    <tr>
+      <td height="10" width="20"></td>
     </tr>
     <tr>
       <td align="center">
