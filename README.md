@@ -26,7 +26,7 @@
       <td align="center">
         <table border="0" cellpadding="0" cellspacing="0" width="300">
           <tr>
-            <td bgcolor="#222" width="200"></td>
+            <td bgcolor="#222" width="250" height="40">&nbsp;</td>
           </tr>
         </table>
       </td>
