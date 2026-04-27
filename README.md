@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
-  <br>
   <img src="oby.webp" width="200" style="margin-top: 10px;" />
 </div>
 
