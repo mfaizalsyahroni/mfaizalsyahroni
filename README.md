@@ -1,40 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" alt="PHP IS DEAD" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME%3F+%F0%9F%98%B3" alt="WHY ALWAYS ME" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME%3F+%F0%9F%98%B3" />
 </div>
+
+<br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333;">
-        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="30">
-          <tr>
-            <td bgcolor="#222" height="30">&nbsp;</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="120">
-          <tr>
-            <td bgcolor="#222" height="8">&nbsp;</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-</div>
 
+  <!-- Monitor (layar + frame) -->
+  <div style="display:inline-block; border:2px solid #2c2c2c; background:#111; padding:8px;">
+    <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" />
+    
+    <!-- Chin ala Mac -->
+    <div style="height:14px; background:#2c2c2c;"></div>
+  </div>
+
+  <!-- Neck (tiang) -->
+  <div style="width:6px; height:30px; background:#2c2c2c; margin:0 auto;"></div>
+
+  <!-- Base (kaki bawah) -->
+  <div style="width:120px; height:6px; background:#2c2c2c; margin:4px auto 0;"></div>
+
+</div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
