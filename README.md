@@ -24,9 +24,9 @@
     </tr>
     <tr>
       <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="280">
+        <table border="0" cellpadding="0" cellspacing="0" width="300">
           <tr>
-            <td bgcolor="#222" width="280"></td>
+            <td bgcolor="#222" width="200"></td>
           </tr>
         </table>
       </td>
