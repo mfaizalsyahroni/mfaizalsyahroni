@@ -7,20 +7,16 @@
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="300">
+  <table border="0" cellpadding="0" cellspacing="0" width="320">
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333; border-bottom: none;">
-        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="120" />
+        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" />
       </td>
     </tr>
     <tr>
-       <table border="0" cellpadding="0" cellspacing="0" width="30">
-      <td height="60" width="20">
-        </td>
-        </table>
+      <td align="center" bgcolor="#222" style="border: 3px solid #333; border-top: none;" height="60" width="60"></td>
     </tr>
-      </table>
-</div>
+  </table>
 </div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
