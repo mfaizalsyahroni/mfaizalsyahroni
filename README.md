@@ -1,7 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
