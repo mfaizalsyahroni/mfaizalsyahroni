@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME%3F+%F0%9F%98%B3" alt="WHY ALWAYS ME" />
 </div>
 
+<div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333;">
@@ -31,6 +32,7 @@
       </td>
     </tr>
   </table>
+</div>
 </div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
