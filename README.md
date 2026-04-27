@@ -23,7 +23,7 @@
       </td>
     </tr>
       <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="120">
+        <table border="0" cellpadding="0" cellspacing="0" width="10">
           <tr>
             <td bgcolor="#222" height="8">&nbsp;</td>
           </tr>
