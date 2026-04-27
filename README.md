@@ -1,30 +1,26 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=PHP+IS+DEAD!" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME?+😳" />
+  <br><br>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-
-  <!-- Layar -->
-  <tr>
-    <td align="center" bgcolor="#1a1a1a" style="border: 4px solid #333; border-radius: 10px 10px 0 0; padding: 10px;">
-      <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" />
-    </td>
-  </tr>
-
-  <!-- Engsel -->
-  <tr>
-    <td align="center">
-      <div style="width: 60px; height: 6px; background-color: #444;"></div>
-    </td>
-  </tr>
-
-  <!-- Base -->
-  <tr>
-    <td align="center">
-      <div style="width: 360px; height: 18px; background-color: #222;"></div>
-    </td>
-  </tr>
-
-</table>
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background-color: #1a1a1a; border: 4px solid #333; border-radius: 10px; padding: 10px;">
+        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="320" style="border-radius: 2px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div style="background-color: #222; width: 30px; height: 40px; border-left: 2px solid #333; border-right: 2px solid #333;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div style="background-color: #222; width: 140px; height: 8px; border-radius: 10px 10px 2px 2px; border-bottom: 3px solid #111;"></div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
