@@ -13,31 +13,22 @@
     </tr>
   </table>
 
-  <!-- Leher monitor (di luar border) -->
-  <br>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <!-- Leher -->
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0; padding: 0;">
     <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td width="30" height="40" bgcolor="#222" style="border-left: 2px solid #333; border-right: 2px solid #333;"></td>
-          </tr>
-        </table>
+      <td align="center" style="padding: 0; margin: 0;">
+        <div style="width: 30px; height: 40px; background-color: #222;"></div>
       </td>
     </tr>
+    <!-- Kaki -->
     <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td width="140" height="8" bgcolor="#222" style="border-radius: 10px 10px 0 0;"></td>
-          </tr>
-        </table>
+      <td align="center" style="padding: 0; margin: 0;">
+        <div style="width: 140px; height: 8px; background-color: #222; border-radius: 10px 10px 0 0;"></div>
       </td>
     </tr>
   </table>
 
 </div>
-
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
