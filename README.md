@@ -4,38 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=00FFFF&center=true&vCenter=true&width=350&lines=WHY+ALWAYS+ME%3F+%F0%9F%98%B3" alt="WHY ALWAYS ME" />
 </div>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border: 3px solid #333;">
-        <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/oby.webp?raw=true" width="300" height="150" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="30">
-          <tr>
-            <td bgcolor="#222" height="20">&nbsp;</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" width="300">
-          <tr>
-            <td>
-                <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/keyboard.webp?raw=true" width="250" height="50" />
-            </td>
-            <td>
-                <img src="https://github.com/mfaizalsyahroni/mfaizalsyahroni/blob/main/mouse.jpg?raw=true" width="40" height="40" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <p align="center">Hi there! 👋 I'm Muhammad Faizal Syahroni</p>
 <p align="center">⚡ Fullstack PHP Developer | Web Architect</p>
