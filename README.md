@@ -16,11 +16,11 @@
   </a>
 </p>
 
-
+<div align="center">
 ### 🚀 Featured Project
 
 Developed a dynamic JSON-based form system with efficient data processing and API integration.
-
+</div>
 ---
 
 ### 🛠️ Frameworks & Technologies
